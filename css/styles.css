@@ -1,0 +1,13 @@
+body {
+  margin: 0px;
+}
+button {
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  cursor: pointer;
+}
+
+canvas {
+  display: block;
+}
